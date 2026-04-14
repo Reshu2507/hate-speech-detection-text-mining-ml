@@ -67,13 +67,6 @@ The system uses TF-IDF for feature extraction and Logistic Regression as the pri
 * TF-IDF effectively captures important textual features
 * Logistic Regression provides a strong and interpretable baseline
 
-## Technologies Used
-
-* Python
-* Pandas, NumPy
-* Scikit-learn
-* Matplotlib, Seaborn
-* NLTK, WordCloud
 
 ## Conclusion
 
